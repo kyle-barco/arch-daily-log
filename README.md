@@ -1,6 +1,6 @@
-# Arch Daily Log
+# Daily Knowledge Repo MVP
 
-Automated daily knowledge log for my Omarchy Arch Linux setup. It appends practical daily notes and keeps metadata fresh.
+Automated knowledge maintenance repository. It appends practical daily notes and keeps metadata fresh.
 
 ## AI Trend Source
 
@@ -10,17 +10,17 @@ Automated daily knowledge log for my Omarchy Arch Linux setup. It appends practi
 
 ## Dashboard
 
-- Total archive entries: **1936**
-- Today's entries: **5**
-- Today's note: `notes/2026-07-04.md`
+- Total archive entries: **1937**
+- Today's entries: **1**
+- Today's note: `notes/2026-07-05.md`
 
 ### Latest Entry
 
-- Timestamp: `2026-07-04T11:46:01+08:00`
-- Title: **Keyboard support is a baseline**
-- Category: `Accessibility`
-- Source: https://www.w3.org/WAI/standards-guidelines/wcag/
-- Summary: All interactive controls should be reachable and usable by keyboard to support accessibility and power users.
+- Timestamp: `2026-07-05T17:02:30+08:00`
+- Title: **Write decisions down**
+- Category: `Leadership`
+- Source: https://adr.github.io/
+- Summary: Lightweight decision records preserve context, reduce repeated debates, and accelerate onboarding for new contributors.
 
 ### Top Categories
 
@@ -32,6 +32,7 @@ Automated daily knowledge log for my Omarchy Arch Linux setup. It appends practi
 
 ### Recent Timeline
 
+- `2026-07-05T17:02:30+08:00` | **Write decisions down** (Leadership)
 - `2026-07-04T11:46:01+08:00` | **Keyboard support is a baseline** (Accessibility)
 - `2026-07-04T09:19:22+08:00` | **Measure before tuning** (Performance)
 - `2026-07-04T08:42:50+08:00` | **Fail fast on lint and tests** (CI/CD)
@@ -41,4 +42,3 @@ Automated daily knowledge log for my Omarchy Arch Linux setup. It appends practi
 - `2026-07-03T21:22:30+08:00` | **Use exponential backoff with jitter** (Reliability)
 - `2026-07-03T20:42:32+08:00` | **Name intent, not mechanics** (Code Quality)
 - `2026-07-03T19:49:48+08:00` | **Automate rollback paths** (DevOps)
-- `2026-07-03T18:56:37+08:00` | **Set realistic timeouts everywhere** (Backend)
