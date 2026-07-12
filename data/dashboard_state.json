@@ -1,11 +1,11 @@
 {
-  "total_entries": 1992,
+  "total_entries": 1993,
   "latest": {
-    "timestamp": "2026-07-12T22:12:10+08:00",
-    "title": "Batch similar tasks",
-    "category": "Productivity",
-    "source": "https://www.atlassian.com/blog/productivity",
-    "content": "Grouping related cognitive tasks reduces context switching overhead and improves steady development throughput."
+    "timestamp": "2026-07-13T06:29:40+08:00",
+    "title": "Retry only safe operations",
+    "category": "Networking",
+    "source": "https://www.rfc-editor.org/rfc/rfc9110",
+    "content": "Not all requests should be retried blindly; non-idempotent calls need safeguards or idempotency keys."
   },
   "top_categories": [
     [
@@ -30,11 +30,6 @@
     ]
   ],
   "recent_timeline": [
-    {
-      "timestamp": "2026-07-11T19:50:22+08:00",
-      "title": "Design for idempotency",
-      "category": "APIs"
-    },
     {
       "timestamp": "2026-07-11T21:00:03+08:00",
       "title": "Log with stable keys",
@@ -79,9 +74,14 @@
       "timestamp": "2026-07-12T22:12:10+08:00",
       "title": "Batch similar tasks",
       "category": "Productivity"
+    },
+    {
+      "timestamp": "2026-07-13T06:29:40+08:00",
+      "title": "Retry only safe operations",
+      "category": "Networking"
     }
   ],
-  "today_note": "notes/2026-07-12.md",
+  "today_note": "notes/2026-07-13.md",
   "day_counts": {
     "2026-04-16": 4,
     "2026-04-17": 18,
@@ -156,6 +156,7 @@
     "2026-07-09": 7,
     "2026-07-10": 7,
     "2026-07-11": 7,
-    "2026-07-12": 7
+    "2026-07-12": 7,
+    "2026-07-13": 1
   }
 }
