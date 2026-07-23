@@ -10,28 +10,29 @@ Automated knowledge maintenance repository. It appends practical daily notes and
 
 ## Dashboard
 
-- Total archive entries: **2080**
-- Today's entries: **5**
+- Total archive entries: **2081**
+- Today's entries: **6**
 - Today's note: `notes/2026-07-23.md`
 
 ### Latest Entry
 
-- Timestamp: `2026-07-23T16:00:03+08:00`
-- Title: **Write one behavior per test**
-- Category: `Testing`
-- Source: https://martinfowler.com/bliki/UnitTest.html
-- Summary: Single-purpose tests fail with clearer intent and reduce time spent diagnosing what actually regressed.
+- Timestamp: `2026-07-23T18:28:35+08:00`
+- Title: **Rotate credentials on schedule**
+- Category: `Security`
+- Source: https://owasp.org/www-project-top-ten/
+- Summary: Regular credential rotation limits blast radius if a secret leaks and encourages teams to maintain key management hygiene.
 
 ### Top Categories
 
+- `Security`: 105
 - `Testing`: 105
 - `APIs`: 104
 - `Accessibility`: 104
 - `Architecture`: 104
-- `Backend`: 104
 
 ### Recent Timeline
 
+- `2026-07-23T18:28:35+08:00` | **Rotate credentials on schedule** (Security)
 - `2026-07-23T16:00:03+08:00` | **Write one behavior per test** (Testing)
 - `2026-07-23T13:33:40+08:00` | **Use virtual environments by default** (Python)
 - `2026-07-23T10:10:25+08:00` | **Prefer small focused commits** (Git)
@@ -41,4 +42,3 @@ Automated knowledge maintenance repository. It appends practical daily notes and
 - `2026-07-22T19:42:58+08:00` | **Fail fast on lint and tests** (CI/CD)
 - `2026-07-22T17:54:46+08:00` | **Retry only safe operations** (Networking)
 - `2026-07-22T15:19:44+08:00` | **Batch similar tasks** (Productivity)
-- `2026-07-22T12:32:02+08:00` | **Keep runbooks close to code** (Documentation)
