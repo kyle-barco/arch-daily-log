@@ -1,13 +1,17 @@
 {
-  "total_entries": 2419,
+  "total_entries": 2420,
   "latest": {
-    "timestamp": "2026-08-20T07:15:42+08:00",
-    "title": "Use virtual environments by default",
-    "category": "Python",
-    "source": "https://docs.python.org/3/library/venv.html",
-    "content": "Project-specific virtual environments prevent dependency leaks across projects and make builds more reproducible on CI."
+    "timestamp": "2026-08-20T07:43:56+08:00",
+    "title": "Write one behavior per test",
+    "category": "Testing",
+    "source": "https://martinfowler.com/bliki/UnitTest.html",
+    "content": "Single-purpose tests fail with clearer intent and reduce time spent diagnosing what actually regressed."
   },
   "top_categories": [
+    [
+      "Testing",
+      122
+    ],
     [
       "APIs",
       121
@@ -23,18 +27,9 @@
     [
       "Backend",
       121
-    ],
-    [
-      "CI/CD",
-      121
     ]
   ],
   "recent_timeline": [
-    {
-      "timestamp": "2026-08-19T18:52:56+08:00",
-      "title": "Use exponential backoff with jitter",
-      "category": "Reliability"
-    },
     {
       "timestamp": "2026-08-19T19:17:42+08:00",
       "title": "Keep runbooks close to code",
@@ -79,6 +74,11 @@
       "timestamp": "2026-08-20T07:15:42+08:00",
       "title": "Use virtual environments by default",
       "category": "Python"
+    },
+    {
+      "timestamp": "2026-08-20T07:43:56+08:00",
+      "title": "Write one behavior per test",
+      "category": "Testing"
     }
   ],
   "today_note": "notes/2026-08-20.md",
@@ -195,6 +195,6 @@
     "2026-08-17": 26,
     "2026-08-18": 26,
     "2026-08-19": 26,
-    "2026-08-20": 3
+    "2026-08-20": 4
   }
 }
