@@ -1,13 +1,17 @@
 {
-  "total_entries": 2402,
+  "total_entries": 2403,
   "latest": {
-    "timestamp": "2026-08-19T13:53:07+08:00",
-    "title": "Add indexes for real query patterns",
-    "category": "Databases",
-    "source": "https://use-the-index-luke.com/",
-    "content": "Measure slow queries first, then index based on predicates and sort order. Over-indexing harms write performance."
+    "timestamp": "2026-08-19T14:29:37+08:00",
+    "title": "Design for idempotency",
+    "category": "APIs",
+    "source": "https://www.rfc-editor.org/rfc/rfc7231",
+    "content": "Idempotent create/update endpoints make retries safe under network failures and reduce accidental duplicate operations."
   },
   "top_categories": [
+    [
+      "APIs",
+      121
+    ],
     [
       "Databases",
       121
@@ -21,20 +25,11 @@
       121
     ],
     [
-      "APIs",
-      120
-    ],
-    [
       "Accessibility",
       120
     ]
   ],
   "recent_timeline": [
-    {
-      "timestamp": "2026-08-19T07:14:29+08:00",
-      "title": "Retry only safe operations",
-      "category": "Networking"
-    },
     {
       "timestamp": "2026-08-19T07:38:13+08:00",
       "title": "Fail fast on lint and tests",
@@ -79,6 +74,11 @@
       "timestamp": "2026-08-19T13:53:07+08:00",
       "title": "Add indexes for real query patterns",
       "category": "Databases"
+    },
+    {
+      "timestamp": "2026-08-19T14:29:37+08:00",
+      "title": "Design for idempotency",
+      "category": "APIs"
     }
   ],
   "today_note": "notes/2026-08-19.md",
@@ -194,6 +194,6 @@
     "2026-08-16": 20,
     "2026-08-17": 26,
     "2026-08-18": 26,
-    "2026-08-19": 12
+    "2026-08-19": 13
   }
 }
