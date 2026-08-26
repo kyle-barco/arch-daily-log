@@ -10,28 +10,29 @@ Automated knowledge maintenance repository. It appends practical daily notes and
 
 ## Dashboard
 
-- Total archive entries: **2562**
-- Today's entries: **10**
+- Total archive entries: **2563**
+- Today's entries: **11**
 - Today's note: `notes/2026-08-26.md`
 
 ### Latest Entry
 
-- Timestamp: `2026-08-26T13:47:50+08:00`
-- Title: **Add indexes for real query patterns**
-- Category: `Databases`
-- Source: https://use-the-index-luke.com/
-- Summary: Measure slow queries first, then index based on predicates and sort order. Over-indexing harms write performance.
+- Timestamp: `2026-08-26T14:33:45+08:00`
+- Title: **Design for idempotency**
+- Category: `APIs`
+- Source: https://www.rfc-editor.org/rfc/rfc7231
+- Summary: Idempotent create/update endpoints make retries safe under network failures and reduce accidental duplicate operations.
 
 ### Top Categories
 
+- `APIs`: 129
 - `Databases`: 129
 - `Security`: 129
 - `Testing`: 129
-- `APIs`: 128
 - `Accessibility`: 128
 
 ### Recent Timeline
 
+- `2026-08-26T14:33:45+08:00` | **Design for idempotency** (APIs)
 - `2026-08-26T13:47:50+08:00` | **Add indexes for real query patterns** (Databases)
 - `2026-08-26T13:02:39+08:00` | **Rotate credentials on schedule** (Security)
 - `2026-08-26T12:22:08+08:00` | **Write one behavior per test** (Testing)
@@ -41,4 +42,3 @@ Automated knowledge maintenance repository. It appends practical daily notes and
 - `2026-08-26T07:46:27+08:00` | **Keyboard support is a baseline** (Accessibility)
 - `2026-08-26T07:21:22+08:00` | **Measure before tuning** (Performance)
 - `2026-08-26T06:56:35+08:00` | **Fail fast on lint and tests** (CI/CD)
-- `2026-08-26T06:29:43+08:00` | **Retry only safe operations** (Networking)
