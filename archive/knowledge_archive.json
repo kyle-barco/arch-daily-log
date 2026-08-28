@@ -23183,6 +23183,15 @@
       "title": "Keyboard support is a baseline",
       "content": "All interactive controls should be reachable and usable by keyboard to support accessibility and power users.",
       "source": "https://www.w3.org/WAI/standards-guidelines/wcag/"
+    },
+    {
+      "id": "entry-2026-08-28-8ac4b94566",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T21:36:54+08:00",
+      "category": "Leadership",
+      "title": "Write decisions down",
+      "content": "Lightweight decision records preserve context, reduce repeated debates, and accelerate onboarding for new contributors.",
+      "source": "https://adr.github.io/"
     }
   ]
 }
