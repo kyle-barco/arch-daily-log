@@ -10,28 +10,29 @@ Automated knowledge maintenance repository. It appends practical daily notes and
 
 ## Dashboard
 
-- Total archive entries: **2739**
-- Today's entries: **2**
+- Total archive entries: **2740**
+- Today's entries: **3**
 - Today's note: `notes/2026-10-15.md`
 
 ### Latest Entry
 
-- Timestamp: `2026-10-15T08:42:24+08:00`
-- Title: **Use virtual environments by default**
-- Category: `Python`
-- Source: https://docs.python.org/3/library/venv.html
-- Summary: Project-specific virtual environments prevent dependency leaks across projects and make builds more reproducible on CI.
+- Timestamp: `2026-10-15T13:13:49+08:00`
+- Title: **Write one behavior per test**
+- Category: `Testing`
+- Source: https://martinfowler.com/bliki/UnitTest.html
+- Summary: Single-purpose tests fail with clearer intent and reduce time spent diagnosing what actually regressed.
 
 ### Top Categories
 
+- `Testing`: 138
 - `APIs`: 137
 - `Accessibility`: 137
 - `Architecture`: 137
 - `Backend`: 137
-- `CI/CD`: 137
 
 ### Recent Timeline
 
+- `2026-10-15T13:13:49+08:00` | **Write one behavior per test** (Testing)
 - `2026-10-15T08:42:24+08:00` | **Use virtual environments by default** (Python)
 - `2026-10-15T06:26:33+08:00` | **Prefer small focused commits** (Git)
 - `2026-10-14T18:08:51+08:00` | **Write decisions down** (Leadership)
@@ -41,4 +42,3 @@ Automated knowledge maintenance repository. It appends practical daily notes and
 - `2026-10-13T09:30:01+08:00` | **Retry only safe operations** (Networking)
 - `2026-10-12T17:31:01+08:00` | **Batch similar tasks** (Productivity)
 - `2026-10-12T10:21:12+08:00` | **Keep runbooks close to code** (Documentation)
-- `2026-10-12T07:09:03+08:00` | **Use exponential backoff with jitter** (Reliability)
