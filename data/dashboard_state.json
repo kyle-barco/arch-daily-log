@@ -1,11 +1,11 @@
 {
-  "total_entries": 2757,
+  "total_entries": 2758,
   "latest": {
-    "timestamp": "2026-10-19T22:12:17+08:00",
-    "title": "Write decisions down",
-    "category": "Leadership",
-    "source": "https://adr.github.io/",
-    "content": "Lightweight decision records preserve context, reduce repeated debates, and accelerate onboarding for new contributors."
+    "timestamp": "2026-10-20T07:13:53+08:00",
+    "title": "Prefer small focused commits",
+    "category": "Git",
+    "source": "https://git-scm.com/docs",
+    "content": "Smaller commits are easier to review, easier to revert, and reduce merge conflict risk when multiple contributors work in parallel."
   },
   "top_categories": [
     [
@@ -30,11 +30,6 @@
     ]
   ],
   "recent_timeline": [
-    {
-      "timestamp": "2026-10-17T08:55:12+08:00",
-      "title": "Automate rollback paths",
-      "category": "DevOps"
-    },
     {
       "timestamp": "2026-10-17T13:13:23+08:00",
       "title": "Name intent, not mechanics",
@@ -79,9 +74,14 @@
       "timestamp": "2026-10-19T22:12:17+08:00",
       "title": "Write decisions down",
       "category": "Leadership"
+    },
+    {
+      "timestamp": "2026-10-20T07:13:53+08:00",
+      "title": "Prefer small focused commits",
+      "category": "Git"
     }
   ],
-  "today_note": "notes/2026-10-19.md",
+  "today_note": "notes/2026-10-20.md",
   "day_counts": {
     "2026-04-16": 4,
     "2026-04-17": 18,
@@ -254,6 +254,7 @@
     "2026-10-16": 4,
     "2026-10-17": 3,
     "2026-10-18": 4,
-    "2026-10-19": 4
+    "2026-10-19": 4,
+    "2026-10-20": 1
   }
 }
